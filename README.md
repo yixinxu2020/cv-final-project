@@ -14,12 +14,11 @@
 
 > 预测未知的测试数据集的标签。
 
-在我们的训练数据中添加可信的预测测试观察结果。
+> 在我们的训练数据中添加可信的预测测试观察结果。
 
-使用组合数据构建新模型。
+> 使用组合数据构建新模型。
 
-使用新模型预测测试数据。
->
+> 使用新模型预测测试数据。
 ## Extra data
 2015 kaggle Diabetic Retinopathy (resized)
 > https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized

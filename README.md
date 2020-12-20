@@ -9,4 +9,4 @@
 2015 kaggle Diabetic Retinopathy (resized)
 > https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
 ## 模型集成(Ensemble)
-
+将所有的data分成5个folder，分别train得到5个basic model，再进行ensemble

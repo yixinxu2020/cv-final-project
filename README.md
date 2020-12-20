@@ -6,9 +6,9 @@
 ### Pseudo Labeling
 > https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969
 
-> 伪标记是将可靠的预测测试数据添加到训练数据的过程。
+伪标记是将可靠的预测测试数据添加到训练数据的过程。
 
-> 5个步骤：
+5个步骤：
 
 > 使用训练数据建立模型。
 

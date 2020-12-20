@@ -24,3 +24,5 @@
 > https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
 ## 模型集成(Ensemble)
 将所有的data分成5个folder，分别train得到5个basic model，再进行ensemble
+## Experiment data
+> https://github.com/4uiiurz1/kaggle-aptos2019-blindness-detection/blob/master/markdowns/NOTE.md

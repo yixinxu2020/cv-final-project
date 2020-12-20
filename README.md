@@ -5,6 +5,7 @@
 > https://www.kaggle.com/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy#2.-Try-Ben-Graham's-preprocessing-method.
 ### Pseudo Labeling
 > https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969
+
 > 伪标记是将可靠的预测测试数据添加到训练数据的过程。
 
 5个步骤：
